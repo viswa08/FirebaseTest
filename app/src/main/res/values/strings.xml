@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Test</string>
+    <string name="temperature">Temperature</string>
+    <string name="minimum">Minimum</string>
+    <string name="maximum">Maximum</string>
+    <string name="value">Value</string>
+    <string name="max_hint">Enter max value here</string>
+    <string name="min_hint">Enter min value here</string>
+
+</resources>
