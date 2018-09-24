@@ -4,7 +4,8 @@
     <string name="minimum">Minimum</string>
     <string name="maximum">Maximum</string>
     <string name="value">Value</string>
-    <string name="max_hint">Enter max value here</string>
-    <string name="min_hint">Enter min value here</string>
+    <string name="max_hint">Enter max value</string>
+    <string name="min_hint">Enter min value</string>
+    <string name="setLimits">Set Limits</string>
 
 </resources>
